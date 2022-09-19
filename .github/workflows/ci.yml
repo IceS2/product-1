@@ -20,4 +20,4 @@ jobs:
           destination-repository-name: 'docusaurus-test'
           target-branch: main
           source-directory: 'docs'
-          target-directory: 'products/product-1'
+          target-directory: 'my-docs/products/product-1'
